@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: d54b42c476a0cc34da4153e303220c59
+guid: 8362409503760084ba4b762fe68e6b96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6098317535898017669
-    second: pocong_transparan_canva_0
+      213: 5961535336448382771
+    second: pocong_4frame_180x180_NPOT_0
   - first:
-      213: -7126362502131860975
-    second: pocong_transparan_canva_1
+      213: -4248314594909584184
+    second: pocong_4frame_180x180_NPOT_1
   - first:
-      213: 2407920549585818566
-    second: pocong_transparan_canva_2
+      213: 7759863544446917825
+    second: pocong_4frame_180x180_NPOT_2
   - first:
-      213: 5807855963777327198
-    second: pocong_transparan_canva_3
+      213: -1489299672991784343
+    second: pocong_4frame_180x180_NPOT_3
   - first:
-      213: -6584668625601461345
-    second: pocong_transparan_canva_4
+      213: 5332992013572447490
+    second: pocong_4frame_180x180_NPOT_4
   - first:
-      213: 8913726645852654270
-    second: pocong_transparan_canva_5
+      213: 8177410588451338290
+    second: pocong_4frame_180x180_NPOT_5
   - first:
-      213: 1589184740707310504
-    second: pocong_transparan_canva_6
+      213: -3622794456484047041
+    second: pocong_4frame_180x180_NPOT_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -144,89 +144,155 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pocong_transparan_canva_0
+      name: pocong_4frame_180x180_NPOT_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 227
-        height: 162
+        x: 44
+        y: 21
+        width: 92
+        height: 139
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b706349e28c6e5ba0800000000000000
-      internalID: -6098317535898017669
+      spriteID: 337d1fc8dc0abb250800000000000000
+      internalID: 5961535336448382771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pocong_transparan_canva_1
+      name: pocong_4frame_180x180_NPOT_1
       rect:
         serializedVersion: 2
-        x: 227
-        y: 0
-        width: 227
-        height: 162
+        x: 220
+        y: 48
+        width: 99
+        height: 115
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11a34c7bf031a1d90800000000000000
-      internalID: -7126362502131860975
+      spriteID: 8c48e4c6264fa05c0800000000000000
+      internalID: -4248314594909584184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pocong_transparan_canva_2
+      name: pocong_4frame_180x180_NPOT_2
       rect:
         serializedVersion: 2
-        x: 454
-        y: 0
-        width: 227
-        height: 162
+        x: 398
+        y: 55
+        width: 103
+        height: 110
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c31d6d6bf6aa6120800000000000000
-      internalID: 2407920549585818566
+      spriteID: 1cc1348b7c290bb60800000000000000
+      internalID: 7759863544446917825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pocong_transparan_canva_3
+      name: pocong_4frame_180x180_NPOT_3
       rect:
         serializedVersion: 2
-        x: 681
-        y: 0
-        width: 227
-        height: 162
+        x: 588
+        y: 25
+        width: 83
+        height: 131
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e50e49b4a36a99050800000000000000
-      internalID: 5807855963777327198
+      spriteID: 962283b86d1f45be0800000000000000
+      internalID: -1489299672991784343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocong_4frame_180x180_NPOT_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 18
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1bfe1bf7920a40800000000000000
+      internalID: 5332992013572447490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocong_4frame_180x180_NPOT_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 26
+        width: 74
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f82bba9ffb7170800000000000000
+      internalID: 8177410588451338290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocong_4frame_180x180_NPOT_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37930fd2af39bdc0800000000000000
+      internalID: -3622794456484047041
       vertices: []
       indices: 
       edges: []
@@ -235,7 +301,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 13d8745430d7b6548acd272709e3aeee
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -243,14 +309,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":227.0,"y":162.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      pocong_transparan_canva_0: -6098317535898017669
-      pocong_transparan_canva_1: -7126362502131860975
-      pocong_transparan_canva_2: 2407920549585818566
-      pocong_transparan_canva_3: 5807855963777327198
+      pocong_4frame_180x180_NPOT_0: 5961535336448382771
+      pocong_4frame_180x180_NPOT_1: -4248314594909584184
+      pocong_4frame_180x180_NPOT_2: 7759863544446917825
+      pocong_4frame_180x180_NPOT_3: -1489299672991784343
+      pocong_4frame_180x180_NPOT_4: 5332992013572447490
+      pocong_4frame_180x180_NPOT_5: 8177410588451338290
+      pocong_4frame_180x180_NPOT_6: -3622794456484047041
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
